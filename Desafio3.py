@@ -1,5 +1,4 @@
 #LISTA NOMES
-Nomes = ['Ana','Gabriela','Helena','Vanessa','Eduarda' ]
+nomes = input("Digite os nomes separados por vírgula: ").split(",")
 
-print(Nomes)
-
+print(nomes)
