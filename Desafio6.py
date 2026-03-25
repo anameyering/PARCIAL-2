@@ -1,4 +1,4 @@
-#6 tempo
+#Tempo
 segundos = int(input("Digite a quantidade de segundos: "))
 
 horas = segundos // 3600
