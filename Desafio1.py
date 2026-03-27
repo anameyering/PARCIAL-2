@@ -7,5 +7,5 @@ n2 = float(input('Informe número 2: '))
 #Faz a soma dos dois números informados.
 Soma = n1 + n2
 
-#mostra a resposta da soma na tela.
+#mostra a resposta da soma na tela (print)
 print(n1, '+', n2, '=', Soma)
