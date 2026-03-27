@@ -1,6 +1,6 @@
 #Calcular área do triângulo
 
-#As 2 próximas linhas perguntam qual é o valor da base e altura do triangulo e agurdará a resposta.
+#As 2 próximas linhas perguntam qual é o valor da base e altura do triangulo separadamente e aguardará a resposta.
 base = float(input("qual a base de seu triângulo:"))
 altura = float(input("qual a altura de seu triângulo:"))
 
