@@ -9,7 +9,7 @@ horas = segundos // 3600
 #Aqui, calcula quantos segundos sobram depois de tirar as horas completas.
 resto = segundos % 3600
 
-#Calcula qauntos minutos cabe no resto.
+#Calcula quantos minutos cabe no resto.
 minutos = resto // 60
 
 #Calcula quantos segundos ainda sobram depois dos minutos.
