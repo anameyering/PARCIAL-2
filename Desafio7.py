@@ -1,6 +1,6 @@
-#Formmula dos juros
+#Formula dos juros
 
-#Mostra a mensagem e espera o usuário digitar um valor.
+#Mostra a mensagem e espera o usuário digitar o valor do capital.
 capital = float(input("Digite seu capital (C): "))
 
 #Pede ao usuário a taxa de juros.
