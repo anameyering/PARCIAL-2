@@ -26,7 +26,7 @@ minutos = int(input("Digite os minutos: "))
 segundos = int(input("Digite os segundos: "))
 
 #Converte tudo para segundos.
-Total segundos = horas * 3600 + minutos * 60 + segundos
+Total_segundos = horas * 3600 + minutos * 60 + segundos
 
 #Mostra na tela o total de segundos calculado.
-print("Total em segundos:", total_segundos)
+print("Total em segundos:", Total_segundos)
