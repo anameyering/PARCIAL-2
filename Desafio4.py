@@ -15,16 +15,12 @@ if operação == "soma":
 elif operação == "subtração":
   print( n1 - n2)
 
-#Se for escolhido multiplicação, o Pynthon multiplica n1 e n2 e mostra o resultado na tela.
+#Se for escolhido multiplicação, o Pynthon multiplica n1 por n2 e mostra o resultado na tela.
 elif operação == "multiplicação":
   print( n1 * n2)
 
-#Se for escolhido divisão, o Pynthon divide n1 e n2 e mostra o resultado na tela.
+#Se for escolhido divisão, o Pynthon divide n1 por n2 e mostra o resultado na tela.
 elif operação == "divisão":
   print( n1 / n2)
 
-#Caso o usuário digite qualquer outra operação que não seja nenhuma das 4 opções, aparecerá que a operação não existe.
-else:
-  print("essa operação não existe")
- 
  
