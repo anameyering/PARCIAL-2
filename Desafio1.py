@@ -5,7 +5,7 @@ n1 = float(input('Informe número 1: '))
 n2 = float(input('Informe número 2: '))
 
 #Faz a soma dos dois números informados.
-Soma = n1 + n2
+soma = n1 + n2
 
 #mostra a resposta da soma na tela. 
-print(n1, '+', n2, '=', Soma)
+print(n1, '+', n2, '=', soma)
